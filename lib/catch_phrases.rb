@@ -11,5 +11,5 @@ end
 
 def link
 dangerous = 'Thank You Mario! But Our Princess Is In Another Castle!'
-  puts status
+  puts dangerous
 end
