@@ -10,6 +10,6 @@ status = 'Thank You Mario! But Our Princess Is In Another Castle!'
 end
 
 def link
-dangerous = 'Its Dangerous To Go Alone! Take This\m'
+dangerous = 'Its Dangerous To Go Alone! Take This\n'
   puts dangerous
 end
